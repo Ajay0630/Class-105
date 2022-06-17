@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+h4{
+    color: firebrick;
+}
+#camera, #result{
+    border-style: ridge;
+    width: 350px;
+    height: 300px;
+}
+p{
+    color: crimson;
+}
